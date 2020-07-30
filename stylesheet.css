@@ -59,3 +59,9 @@ li{
 .selected{
   color:#ff0000;
 }
+
+/* Gantikan font-family tag <body> ke "Avenir Next" */
+body {
+  font-family: "Avenir Next";
+}
+
