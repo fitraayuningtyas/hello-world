@@ -50,3 +50,12 @@ img {
   width: 70px;
   
 }
+
+li{
+  color: #444;
+}
+
+/* Gantikan warna "selected" ke #ff0000 */
+.selected{
+  color:#ff0000;
+}
